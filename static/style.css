@@ -1,0 +1,26 @@
+.head {
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+}
+
+.logo {
+    width: 30%;
+}
+
+.logo img {
+    max-width: 250px;
+}
+
+
+.project-info {
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+.result {
+    text-align: center;
+    font-weight: 600;
+    font-size: 34px;
+}
